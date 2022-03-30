@@ -7,7 +7,7 @@
   
 <h3 align="left"> - 🌍 Connect with me:</h3>
 </a><p align="left"><a href="https://www.linkedin.com/in/francesco-aldrovandi/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/francesco-aldrovandi/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/faldrovandi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Facebook_icon.png/600px-Instagram_icon.png?20200512141346" alt="faldrovandi" height="30" width="40" /></a> </p>
+<a href="https://www.facebook.com/faldrovandi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/800px-2021_Facebook_icon.svg.png" alt="faldrovandi" height="30" width="40" /></a> </p>
 
 ![](https://komarev.com/ghpvc/?username=FA1312)
 
