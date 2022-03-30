@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, my name is Francesco!</h1>
 <h2 align="center">A passionate developer based in Barcelona</h2>
 
-<h3> - 🎓 I have recently graduated in Web Development at<a href="https://www.ironhack.com/en/web-development">Ironhack Barcelona</a>, and became Full-Stack developer.</h3>
+<h3> - 🎓 I have recently graduated in Web Development at <a href="https://www.ironhack.com/en/web-development">Ironhack Barcelona</a>, and became Full-Stack developer.</h3>
 <h3> - 👯 All of my projects are available at https://github.com/FA1312?tab=repositories</h3>
 <h3> - 📫 How to reach me: <a href="mailto:faldrovandi83@gmail.com" Subject="Something interesting">faldrovandi83@gmail.com</a>
   
 <h3 align="left"> - 🌍 Connect with me:</h3>
 </a><p align="left"><a href="https://www.linkedin.com/in/francesco-aldrovandi/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/francesco-aldrovandi/" height="30" width="40" /></a>
-<a href="https://instagram.com/bagaloxley" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" alt="bagaloxley" height="30" width="40" /></a> </p>
+<a href="https://www.facebook.com/faldrovandi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Facebook_icon.png/600px-Instagram_icon.png?20200512141346" alt="faldrovandi" height="30" width="40" /></a> </p>
 
 ![](https://komarev.com/ghpvc/?username=FA1312)
 
