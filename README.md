@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Francesco!</h1>
-<h2 align="center">A passionate developer based in Barcelona</h2>
+<h2 align="center">A passionate web developer based in Barcelona</h2>
 
-<h3> - 🎓 I have recently graduated in Web Development at <a href="https://www.ironhack.com/en/web-development">Ironhack Barcelona</a>, and became Full-Stack developer.</h3>
+<h3> - 🎓 I have graduated in March 2022 in Web Development at <a href="https://www.ironhack.com/en/web-development">Ironhack Barcelona</a>, and became Full-Stack developer.</h3>
 <h3> - 👯 All of my projects are available at https://github.com/FA1312?tab=repositories</h3>
 <h3> - 📫 How to reach me: <a href="mailto:faldrovandi83@gmail.com" Subject="Something interesting">faldrovandi83@gmail.com</a>
   
